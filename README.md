@@ -1,6 +1,10 @@
 # 👋 Hi, I’m @LukenProgramming
-- 👀 I’m interested in <b><i>Software Engineering</i></b> and hope to become a <b><i>Full-Stack Developer</b></i>
-<br>
-- 🌱 I’m currently learning <b><i>JavaScript, HTML and Python</i></b>
-<br>
-- 📫 How to reach me: you can find me on discord LukeN1#9083 !
+
+- I am a 15 y/o beginner developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- Right now I'm learning to code in JavaScript and JS Frameworks like React ⚛️
+- Languages I'm interested in:
+  - JavaScript
+  - Java🍵
+  - Python🐍
+  - C# (Unity Games Development)🎮
+- I'm doing Higher Level CompSci @ School this year and hope to go on to do CS at Uni 🧑‍🎓
